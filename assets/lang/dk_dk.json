@@ -1,7 +1,7 @@
 {
   "metadata":
   {
-    "name": "Dansk (Denmark)"
+    "name": "Dansk (Danmark)"
   },
   "startButton": "Start",
   "loadButton": "Åben Gem Mappe",
@@ -62,7 +62,7 @@
   "MAC_warning": "Advarsel: Mac er Ikke Understøttet på nuværende tidspunkt. Spillet virker højst sansyligt ikke.",
   "Controller": "Controller",
   "Controllers": "Controllers",
-  "Controller_info": " opdaget!\nController support er Ikke fuldendt nu,\nand vil blive forbedret i senere opdateringer.",
+  "Controller_info": " opdaget!\nController support er Ikke fuldendt nu,\n Og vil blive forbedret i senere opdateringer.",
   "on_state": "Tændt",
   "off_state": "Slukket",
   "World_name": "Verden-",
